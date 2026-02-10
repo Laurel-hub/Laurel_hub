@@ -1,5 +1,4 @@
 # Laurel_hub
-AI &amp; Data portfolio profile
 👋 Hi, I’m Oghenevurie Lauretta  
 
 📊 AI & Data Scientist | MSc Artificial Intelligence  
