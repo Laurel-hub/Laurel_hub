@@ -26,5 +26,4 @@ I work at the intersection of **data analysis, machine learning, and healthcare*
 I enjoy reflective writing, spoken-word poetry, deep conversations, and lifelong learning.
 
 🔗 **Connect with me**
-- LinkedIn: *(add when ready)*  
-- GitHub Portfolio: www.linkedin.com/in/lauretta-oghenevurie-063a772a4   
+- See LinkedIn: www.linkedin.com/in/lauretta-oghenevurie-063a772a4   
